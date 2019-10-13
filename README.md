@@ -1,5 +1,5 @@
 # About
-Command is a simple framework for handling command execution within your python application.  
+Command is a simple framework for handling command execution within your Python application.  
 
 **Note:** This is a **Javascript => Python** port of
 
