@@ -78,5 +78,5 @@ def fire(identifier, args=[]):
 		args = list(args)
 		command.execute(args)
 	else:
-		message = "Could not find a command named {0}".format(identifier)
+		message = "Could not find a command named '{0}'.".format(identifier)
 		print(message)
