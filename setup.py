@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
 	name="command-known-as-dan",
-	version="1.1.0",
+	version="1.2.0",
 	author="known-as-dan",
 	author_email="dan@gotoindex.com",
 	description="Command is a simple framework for handling command execution within your python application.",

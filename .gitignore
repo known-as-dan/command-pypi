@@ -1,3 +1,4 @@
+.vscode
 build
 command_known_as_dan.egg-info
 dist
