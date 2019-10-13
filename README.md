@@ -1,7 +1,7 @@
 # About
 Command is a simple framework for handling command execution within your Python application.  
 
-**Note:** This is a **Javascript => Python** port of
+**Note:** This is a **Javascript => Python** port of https://github.com/known-as-dan/command-npm
 
 # Usage
 Recreating the common "echo" command using Command & Python:
